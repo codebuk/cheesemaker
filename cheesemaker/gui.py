@@ -25,7 +25,8 @@ from functools import partial
 import os
 import sys
 import random
-from . import preferences, editimage
+from preferences import *
+from editimage import *
 
 class MainWindow(QMainWindow):
     def __init__(self, parent):
