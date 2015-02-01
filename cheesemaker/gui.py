@@ -469,7 +469,7 @@ class ImageViewer(QApplication):
         else:
             win.open()
 
-def main():
+if __name__ == '__main__':
     app = ImageViewer(sys.argv)
     app.startup()
     app.exec_()
