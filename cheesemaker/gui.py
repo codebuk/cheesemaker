@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Authors: David Whitlock <alovedalongthe@gmail.com>
 # A minimalistic image viewer
 # Copyright (C) 2013-2014 David Whitlock
